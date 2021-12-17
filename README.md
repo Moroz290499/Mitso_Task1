@@ -9,7 +9,7 @@
 ## Downloading
 
 ```
-git clone {repository URL}
+git clone {https://github.com/Moroz290499/Mitso_Task1/tree/task-2}
 ```
 
 ## Installing NPM modules
